@@ -1,5 +1,4 @@
 import Image from "next/image";
-import profilePic from '..imgs/logo.webp'
 
 export default function Header() {
     return (
