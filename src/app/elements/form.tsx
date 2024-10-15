@@ -47,7 +47,7 @@ export default function Form() {
                         type="password"
                         placeholder="******************"
                     />
-                    <p className="text-gray-600 text-xs italic">Make it as long and as crazy as you'd like</p>
+                    <p className="text-gray-600 text-xs italic">Make it as long and as crazy as you&rsquo;d like</p>
                 </div>
             </div>
             <div className="flex flex-wrap -mx-3 mb-2">
