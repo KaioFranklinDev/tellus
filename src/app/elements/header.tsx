@@ -2,10 +2,10 @@ import Image from "next/image";
 
 export default function Header() {
     return (
-        <header className="flex flex-row justify-around items-center bg-primary text-secondary">
-            <div className="flex flex-row items-center gap-10">
+        <header className="flex flex-row justify-around items-center bg-primary text-secondary h-14">
+            <div className="flex flex-row items-center gap-16">
                 <div>
-                    <Image alt="logo" src={'/imgs/logo.webp'} height={50} width={50} />
+                    <Image alt="logo" src={'/imgs/logo.webp'} height={90} width={90} />
                 </div>
                 <nav className=" flex flex-row gap-5 text-sm">
                     <a>Como funciona</a>
